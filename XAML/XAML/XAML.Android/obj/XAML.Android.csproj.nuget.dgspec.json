@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj": {}
+    "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj": {
+    "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
         "projectName": "XAML.Android",
-        "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
+        "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
         "packagesPath": "C:\\Users\\Sanjay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\obj\\",
+        "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj": {
-                "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj"
+              "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj": {
+                "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj": {
+    "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj",
+        "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj",
         "projectName": "XAML",
-        "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj",
+        "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj",
         "packagesPath": "C:\\Users\\Sanjay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\obj\\",
+        "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

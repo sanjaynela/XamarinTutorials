@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsaB2tx6owFWyeoCrQ6ue3zuEvvIBubky7lvKtVDjORf5453ln0VgcP2bheAnIDR8E25ieDNG2Qa8NmeIjn2RA==",
+  "dgSpecHash": "kgeN68Ay30Z7loopWqEHAgTgQf0q/zCkOx6O6WDQfust32QlvVQiT1HfvcgTlw9j2nt51fcvLjn94Kd9eyf14A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
+  "projectFilePath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.Android\\XAML.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sanjay\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Sanjay\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

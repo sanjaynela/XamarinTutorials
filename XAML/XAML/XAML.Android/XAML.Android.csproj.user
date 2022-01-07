@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>LENOVO TB-8505F</SelectedDevice>
     <ActiveDebugProfile>LENOVO TB-8505F</ActiveDebugProfile>
+    <DefaultDevice>pixel_5_-_api_30</DefaultDevice>
   </PropertyGroup>
 </Project>

@@ -988,11 +988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.iOS\\XAML.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.iOS\\XAML.iOS.csproj",
       "projectName": "XAML.iOS",
-      "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.iOS\\XAML.iOS.csproj",
+      "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.iOS\\XAML.iOS.csproj",
       "packagesPath": "C:\\Users\\Sanjay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1013,8 +1013,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj": {
-              "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj"
+            "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj": {
+              "projectPath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj"
             }
           }
         }

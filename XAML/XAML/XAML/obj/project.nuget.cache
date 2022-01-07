@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B8KZz3l9Oi1y21yyTlcWh9kcG9C2FR8ILMHpk2tGMoUydfBdmuNx4blqIX+Ot6/eGoyZQ6o4YoU4YpSEYJdNdQ==",
+  "dgSpecHash": "iPz01YVp6GUz8Q5hBnsh1ds7CnoafW/wZuKjSTwUHu+V93cdiG8DDJxaXJAfevNWoZV4yeO9KdBywcE1io3KcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sanjay\\source\\repos\\XAML\\XAML\\XAML\\XAML.csproj",
+  "projectFilePath": "C:\\Users\\Sanjay\\source\\repos\\XamarinTutorials\\XAML\\XAML\\XAML\\XAML.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sanjay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Sanjay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
