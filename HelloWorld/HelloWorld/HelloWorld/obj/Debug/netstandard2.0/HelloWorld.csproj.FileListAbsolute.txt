@@ -1,0 +1,16 @@
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\ref\HelloWorld.dll
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ref\HelloWorld.dll
+C:\Users\Sanjay\source\repos\XamarinTutorials\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb

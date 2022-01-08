@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HelloWorld.Droid;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GreetPage();
         }
 
         protected override void OnStart()
