@@ -22,6 +22,8 @@ namespace HelloWorld.Droid
             //    VerticalOptions = LayoutOptions.Center,
             //    Text = "Hello World"
             //};
+
+            slider.Value = 0.5;
         }
 
         private void Handle_Clicked(object sender, EventArgs e)
@@ -32,7 +34,7 @@ namespace HelloWorld.Droid
         private void Slider_ValueChanged(object sender, ValueChangedEventArgs e)
         {
             //Code inside event handler
-            label.Text = String.Format("Value is {0:F2}", e.NewValue);
+            //label.Text = String.Format("Value is {0:F2}", e.NewValue);
         }
     }
 }
