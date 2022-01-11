@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d632025-22d4-41b8-a947-5c742ff91c94": {
+      "ProjectGuid": "5d632025-22d4-41b8-a947-5c742ff91c94",
+      "DisplayName": "HelloWorld.Android",
+      "ColorIndex": 0
+    },
+    "8da53498-05d7-4fc6-acde-a6012e317c8b": {
+      "ProjectGuid": "8da53498-05d7-4fc6-acde-a6012e317c8b",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
